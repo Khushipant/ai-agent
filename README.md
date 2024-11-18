@@ -16,10 +16,4 @@ This project provides a platform for users to upload data (in CSV, Excel, or Goo
 
 ## Installation
 
-1. Clone the repository or download the code.
-2. Create a virtual environment (optional, but recommended):
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate   # For macOS/Linux
-   .\venv\Scripts\activate    # For Windows
+1. you can use to run the code on Google Colab with your own API keys and authentication tokens
